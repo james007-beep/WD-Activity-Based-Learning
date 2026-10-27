@@ -1,6 +1,6 @@
 # WD-Activity-Based-Learning
 
-This is for web development 1-1 for NRIU My Name is R.Navadeep Nayak Iam from AIML section-1-First Year(1-1) My three projects are
+This is for web development 1-1 for NRIU My Name is M.D Arshad Baig. I am from AIML section-1-First Year(1-1) My three projects are
 
 problem statement-1:
     Create a personal website displaying a profile, educational qualifications, technical skills, hobbies, projects, achievements, 
